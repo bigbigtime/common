@@ -1,5 +1,5 @@
 <template>
-    <div>子模块测试</div>
+    <div>子模块测试aaaaaa</div>
 </template>
 <script>
 export default {
